@@ -13,3 +13,9 @@ http://115.28.182.124/c/00000000050/information/%E7%AB%9E%E8%B5%9B%E6%8F%8F%E8%B
 ||train_data.txt|| 	txt (191.61mb)||http://pan.baidu.com/s/1qWyk5FQ ||
 
 ||大赛文档1.0.doc ||	doc (53.50kb) ||http://115.28.182.124/Uploads/competitions/5403c3df31780.doc ||
+
+-----------------------------
+本项目的开发说明
+
+https://github.com/hejy12/newsRecommender/blob/master/TODO.md
+
